@@ -1,0 +1,22 @@
+{
+  "name": "js-101-beginners-ms",
+  "version": "1.0.0",
+  "description": "Glaucia Lemos crash course on Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucia86/js-101-beginners-ms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaucia86/js-101-beginners-ms/issues"
+  },
+  "homepage": "https://github.com/glaucia86/js-101-beginners-ms#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
